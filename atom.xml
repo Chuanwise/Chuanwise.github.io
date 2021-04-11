@@ -3,11 +3,11 @@
   <title>Chuanwise</title>
   
   <subtitle>椽子的博客 (｡･∀･)ﾉﾞ</subtitle>
-  <link href="https://chuanwise.github.io/blog/atom.xml" rel="self"/>
+  <link href="https://chuanwise.github.io/atom.xml" rel="self"/>
   
-  <link href="https://chuanwise.github.io/blog/"/>
+  <link href="https://chuanwise.github.io/"/>
   <updated>2021-04-11T00:45:22.021Z</updated>
-  <id>https://chuanwise.github.io/blog/</id>
+  <id>https://chuanwise.github.io/</id>
   
   <author>
     <name>Chuanwise</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://chuanwise.github.io/blog/2021/04/11/hello-world/"/>
-    <id>https://chuanwise.github.io/blog/2021/04/11/hello-world/</id>
+    <link href="https://chuanwise.github.io/2021/04/11/hello-world/"/>
+    <id>https://chuanwise.github.io/2021/04/11/hello-world/</id>
     <published>2021-04-11T00:45:22.021Z</published>
     <updated>2021-04-11T00:45:22.021Z</updated>
     
