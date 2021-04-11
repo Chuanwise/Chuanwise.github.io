@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Chuanwise</title>
+  <title>CHUANWISE</title>
   
   <subtitle>椽子的博客 (｡･∀･)ﾉﾞ</subtitle>
   <link href="https://chuanwise.github.io/atom.xml" rel="self"/>
   
   <link href="https://chuanwise.github.io/"/>
-  <updated>2021-04-11T00:45:22.021Z</updated>
+  <updated>2021-04-11T15:11:13.981Z</updated>
   <id>https://chuanwise.github.io/</id>
   
   <author>
@@ -17,22 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://chuanwise.github.io/2021/04/11/hello-world/"/>
-    <id>https://chuanwise.github.io/2021/04/11/hello-world/</id>
-    <published>2021-04-11T00:45:22.021Z</published>
-    <updated>2021-04-11T00:45:22.021Z</updated>
+    <title>我的第一篇「纪实文学」：「我菜爆了」</title>
+    <link href="https://chuanwise.github.io/2021/04/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E3%80%8C%E7%BA%AA%E5%AE%9E%E6%96%87%E5%AD%A6%E3%80%8D%EF%BC%9A%E3%80%8C%E6%88%91%E8%8F%9C%E7%88%86%E4%BA%86%E3%80%8D/"/>
+    <id>https://chuanwise.github.io/2021/04/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E3%80%8C%E7%BA%AA%E5%AE%9E%E6%96%87%E5%AD%A6%E3%80%8D%EF%BC%9A%E3%80%8C%E6%88%91%E8%8F%9C%E7%88%86%E4%BA%86%E3%80%8D/</id>
+    <published>2021-04-11T14:06:29.000Z</published>
+    <updated>2021-04-11T15:11:13.981Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="插曲"><a class="markdownIt-Anchor" href="#插曲"></a> 插曲</h3><p>这篇文章的标题来自刚搭好自己的博客，给朋友发的一段话。</p><p>在搭好站点后尝试发了一篇文章『我菜爆了』，<img src="record.png" alt="img" />突然想起来这可以作为文章的标题。</p><h3 id="椽窝"><a class="markdownIt-Anchor" href="#椽窝"></a> 椽窝</h3><p>本周末抽空搭了自己的博客，起名「椽窝」，椽窝是古建筑一类非常不起眼的小窝，但对稍讲究的建筑而言不可或缺。</p><p>一直偶尔有些发些文章的需求。我注意到非常硬核，或者是分享些我在技术上的新发现或感到有趣的事情，在QQ空间获得的赞或互动比平时的说说少多了（虽然对空间的说说有这方面的「要求」听起来感觉挺小学生的，但毕竟是发到空间的当然是希望收获大家的回应），因而感到空间并不是很合适。知乎、CSDN等其他无数可以发文章的站点差不多都给我相同的感觉。而放在手机备忘录或者其他地方，并不便于必要时分享给大家。最后觉得还是搭个自己的博客最好。</p><p>所以你就看到了这一页。</p><p>从小学的时候我就一直希望未来做一个自己的网站。五年级的时候用 <code>PS + DW</code> 做了一个现在看起来技术很差的网站。后来对建站的热情慢慢下降。但在今天在本地测试，看到自己的博客加载出来，那种五年级时第一次看到自己的<code>DW</code>作品在浏览器上显示的愉快感觉马上就出现了，像是领了什么大奖。</p><p>搭建椽窝也是因为一段时间之前偶然发现了<a href="https://lhr.wiki">练巨的博客</a>，在里面看了一些很有意思的上古文章。虽然更新的不勤快但每篇都像是深夜两人都不着急睡时的长谈话。这让我觉得私人搭建的博客像一个不起眼的公开日记本，偶然或定期到访的朋友会令我感到惊喜和意外。每当我输入别人的博客地址，看到关注的人的私人博客有更新的内容时，也感到高兴。这和在一些大的社交媒体平台关注的账号更新了的感受完全不一样，颇有串门的味道。</p><h3 id="我菜爆了"><a class="markdownIt-Anchor" href="#我菜爆了"></a> 「我菜爆了」</h3><p>建立博客的直接原因也是在近期高强度的编程和看文档中，综合感到我菜爆了。</p><p>大一就出了实验结果的论文，咕到大二了还没有写完。大一的高数等课基本没好好听，也没有非常努力去打 OI，在这些方向上我算是硬生生浪费了一年。</p><p>大二上半学期决定好好学习，闷声拿大分。所以平时学习也比大一认真了一大截，但是个人感觉只是在编程的量上有了变化。</p><p>虽然我有了一点点成就，例如自己写了 MC 服务器的自定义指令：CustomCommands 插件、开发了基于 Simbot 框架的可加载插件的 XiaomingBot QQ 机器人框架，但这些代码质量并不很令人满意，时常有一些 Bug 冒出来。</p><p>大二下半学期就决定闷声拿大分的同时，也提升自己的编程水平。</p><p>不过椽窝除了更新技术分享和自己项目的一些文档，我也会把这里当「公开的日记本」，发稍长些的想法和自己的总结之类的。</p><p>今天写这些吧，感谢你这次串门。</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">刚搭好椽窝发出的第一篇文章</summary>
     
     
     
+    <category term="闲聊" scheme="https://chuanwise.github.io/categories/%E9%97%B2%E8%81%8A/"/>
+    
+    
+    <category term="闲聊" scheme="https://chuanwise.github.io/tags/%E9%97%B2%E8%81%8A/"/>
     
   </entry>
   
