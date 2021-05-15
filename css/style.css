@@ -5527,6 +5527,7 @@ pre .js .function {
 
 pre,
 .highlight {
+  font-family: "consolas";
   background: #fafafa;
   margin: 10px 0;
   padding: 15px 10px;
@@ -5542,6 +5543,7 @@ pre,
 }
 
 code {
+  font-family: "consolas";
   text-shadow: 0 1px #fff;
   padding: 0.2em 0.4em;
   margin: 0 0.3em;
